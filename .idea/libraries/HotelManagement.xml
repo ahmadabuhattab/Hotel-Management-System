@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="HotelManagement">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/rs2xml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sqlite-jdbc-3.8.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/swingx-all-1.6.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/joda-time-2.8.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
